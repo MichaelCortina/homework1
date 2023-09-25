@@ -1,0 +1,3 @@
+What is a remote repository?
+A remote repository is a git repo stored on the cloud, this allows for 
+multiple programmers to work on the same code on different devices at once.
